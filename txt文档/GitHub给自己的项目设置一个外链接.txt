@@ -1,5 +1,5 @@
-1¡¢ÕÒµ½ÒªÉèÖÃÁ´½ÓµÄÏîÄ¿£¬µã»÷setting
+ï»¿1ã€æ‰¾åˆ°è¦è®¾ç½®é“¾æ¥çš„é¡¹ç›®ï¼Œç‚¹å‡»setting
 
-2¡¢GitHub Pages¡·Source¡·master branch¡·save
+2ã€GitHub Pagesã€‹Sourceã€‹master branchã€‹save
 
-3¡¢Íê³ÉÉÏÃæ²Ù×÷±ã¿É
+3ã€å®Œæˆä¸Šé¢æ“ä½œä¾¿å¯
