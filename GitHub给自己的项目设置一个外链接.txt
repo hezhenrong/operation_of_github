@@ -1,5 +1,0 @@
-1、找到要设置链接的项目，点击setting
-
-2、GitHub Pages》Source》master branch》save
-
-3、完成上面操作便可
